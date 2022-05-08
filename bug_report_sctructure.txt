@@ -1,0 +1,8 @@
+Title
+Description
+Environment
+Steps to reproduce
+Actual Result
+Expected Result
+Priority/Severity
+Assignee
